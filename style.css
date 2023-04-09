@@ -1,0 +1,30 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url(../image/bowser-castle.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#bowser-peach {
+	height: 200px;
+	width: auto;
+}
+
+.container {
+	padding: 3rem 0;
+	text-align: center;
+	background-color: white;
+	max-width: 600px;
+}
+
+#chance-area {
+	margin: 1rem 0rem;
+}
+
+#user-input {
+	margin-top: 1rem;
+}
